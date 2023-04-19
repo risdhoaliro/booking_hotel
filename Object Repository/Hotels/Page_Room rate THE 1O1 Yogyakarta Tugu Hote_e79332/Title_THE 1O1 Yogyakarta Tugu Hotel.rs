@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_THE 1O1 Yogyakarta Tugu Hotel</name>
+   <tag></tag>
+   <elementGuidId>12633a37-ca22-4432-9807-f5090284b6b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.css-4rbku5.css-901oao.r-1sixt3s.r-adyw6z.r-b88u0q.r-vrz42v.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[contains(text(),'THE 1O1 Yogyakarta Tugu Hotel')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>181173c3-f947-4331-8e34-42df8d075963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>dbbdb8ca-ca28-4412-bfc3-3586043d28a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2dd0bd59-c568-40e7-8571-b984b8ef5567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>6bcf03e2-a68e-439f-b5f0-364d7bd1d4ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao r-1sixt3s r-adyw6z r-b88u0q r-vrz42v r-fdjqy7</value>
+      <webElementGuid>f7738986-b7db-4103-a62e-9f4f60ae3324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>THE 1O1 Yogyakarta Tugu Hotel</value>
+      <webElementGuid>d6bb1d81-b31f-4bd4-b035-d006fc8ebe52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-1r5su4o r-uwe93p r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-1oszu61 r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-nsbfu8&quot;]/div[@class=&quot;css-1dbjc4n r-1oszu61 r-eqz5dr&quot;]/div[@class=&quot;css-1dbjc4n r-1habvwh r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]/div[@class=&quot;css-1dbjc4n r-15zivkp&quot;]/h1[@class=&quot;css-4rbku5 css-901oao r-1sixt3s r-adyw6z r-b88u0q r-vrz42v r-fdjqy7&quot;]</value>
+      <webElementGuid>c25f025d-f5bd-4b41-bfc2-40a1d4150c71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[5]/div/div/div[3]/div/div/div/div/div/div/h1</value>
+      <webElementGuid>23871e05-c30e-468b-9129-d76272568d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Search'])[1]/following::h1[1]</value>
+      <webElementGuid>218c2052-bf9c-4cd7-9e23-02d3fd9be344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THE 1O1 Yogyakarta Tugu Hotel'])[1]/following::h1[1]</value>
+      <webElementGuid>1cc0153b-cbba-4a50-ba89-a9510e6a86f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels'])[2]/preceding::h1[1]</value>
+      <webElementGuid>84c817cf-67d7-4760-8cca-d7408c084c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jl. Margoutomo 103 (Jl. Mangkubumi), Jetis, Yogyakarta, Yogyakarta Province, Indonesia, 55232'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c5c208a7-6b10-4888-8b4a-dc8c9566722c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>a54b3dff-cee5-4fb2-8e7b-eb78e4f45888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'THE 1O1 Yogyakarta Tugu Hotel' or . = 'THE 1O1 Yogyakarta Tugu Hotel')]</value>
+      <webElementGuid>3be0bf1b-37da-4643-bef1-a898210640e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

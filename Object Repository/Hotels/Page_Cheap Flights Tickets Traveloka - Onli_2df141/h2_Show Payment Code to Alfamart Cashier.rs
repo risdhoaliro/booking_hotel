@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Show Payment Code to Alfamart Cashier</name>
+   <tag></tag>
+   <elementGuidId>186f65f6-e8a3-42cf-be70-4af9515ce337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-8d26hk > div.css-1dbjc4n.r-tndldt.r-6koalj.r-eqz5dr.r-zd98yo.r-13qz1uu > div.css-1dbjc4n.r-1awozwy.r-6koalj.r-18u37iz.r-1ifxtd0 > h2.css-4rbku5.css-901oao.r-1h9nbw7.r-1sixt3s.r-adyw6z.r-b88u0q.r-135wba7.r-fdjqy7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ea2b4441-1d7f-444b-9987-225dbed29118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>91efe3fb-22a9-4937-80eb-8ef55c724fa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>33eddb1b-4992-4c49-acbd-f91a5f6fccfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>b18c091b-a064-41ae-86d8-e38589deb677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-901oao r-1h9nbw7 r-1sixt3s r-adyw6z r-b88u0q r-135wba7 r-fdjqy7</value>
+      <webElementGuid>a1bbc8b4-baee-43c1-9d0a-c1465df12e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show Payment Code to Alfamart Cashier</value>
+      <webElementGuid>5983dc11-0fae-45e3-948c-b76f59fbbdfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-r0h9e2 r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-1wtj0ep&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-z2wwpe r-1f9oodz r-13aut6t r-1p02zvt r-10x3wzx r-1wi2xyk&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-8d26hk&quot;]/div[@class=&quot;css-1dbjc4n r-tndldt r-6koalj r-eqz5dr r-zd98yo r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-6koalj r-18u37iz r-1ifxtd0&quot;]/h2[@class=&quot;css-4rbku5 css-901oao r-1h9nbw7 r-1sixt3s r-adyw6z r-b88u0q r-135wba7 r-fdjqy7&quot;]</value>
+      <webElementGuid>40e2a34f-6f14-432d-a06f-a5dd1dbdc391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/h2</value>
+      <webElementGuid>318792bf-1881-40aa-8eb6-c82b82654d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete your payment within 33 minutes 16 seconds'])[1]/following::h2[1]</value>
+      <webElementGuid>6e7d7324-7e95-4b47-bb60-dbd9068e77bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today 09:38 AM'])[1]/following::h2[1]</value>
+      <webElementGuid>0096e3ea-f9fc-40a1-bf0b-657be3f6b13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Code Alfamart:'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7f21ce8f-01ca-4b29-8bcd-3fd0a99cf710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inform the Alfamart cashier that you want to make a payment for a Traveloka transaction.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ed342edd-22d7-4e09-b903-8d47666e2543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show Payment Code to Alfamart Cashier']/parent::*</value>
+      <webElementGuid>9d0c3590-3fab-4dc5-b7c3-896efe98dda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h2</value>
+      <webElementGuid>4e195f92-066c-4671-8933-9058db15e6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Show Payment Code to Alfamart Cashier' or . = 'Show Payment Code to Alfamart Cashier')]</value>
+      <webElementGuid>928177fd-ed2e-4913-b1a0-055e02b1761c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
